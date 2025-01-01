@@ -1,0 +1,26 @@
+
+button{
+    background-color: rgb(235, 39, 39);
+    border-radius: 4px;
+    color: white;
+    border-color: black;
+    padding: 14px;
+    margin: 22px;
+    border: 15px;
+
+}
+h1{
+    color:blue;
+}
+body{
+    height: 366px;
+    width:277px;
+    display: block;
+    margin-left: 550px;
+    margin-top: 60px;
+}
+button:hover{
+background-color: antiquewhite;
+color: black;
+border:2px solid black;
+}
